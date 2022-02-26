@@ -1,0 +1,7 @@
+{
+  "name": "Med Bot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
