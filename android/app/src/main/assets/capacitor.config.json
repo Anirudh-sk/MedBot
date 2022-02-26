@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Med Bot",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -33,7 +33,7 @@ const Home: React.FC = () => {
     <IonPage id="home-page">
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Inbox</IonTitle>
+          <IonTitle>Med Bot</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
@@ -44,7 +44,7 @@ const Home: React.FC = () => {
         <IonHeader collapse="condense">
           <IonToolbar>
             <IonTitle size="large">
-              Inbox
+              Med Bot
             </IonTitle>
           </IonToolbar>
         </IonHeader>
